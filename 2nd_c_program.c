@@ -1,5 +1,5 @@
-2nd c program 
-pattern printing:
+// 2nd c program 
+// pattern printing
 
 #include<stdio.h>
 int main(){
